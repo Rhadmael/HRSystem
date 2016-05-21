@@ -1,0 +1,33 @@
+# HRSYstem
+
+Synopsis
+
+This Project deals with the basic concepts of a reservation System. here a user can book and cancel rooms,update reservations. The manager can view and update employee records as well as view reports of reservation and gross income.
+
+Code Example
+
+This is a System still under development,with working base concepts developed with JAVA
+
+Motivation
+
+Made With ? and alot of cofee
+
+Installation
+
+This is a project still under development
+
+API Reference
+
+Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+
+Tests
+
+Describe and show how to run the tests with code examples.
+
+Contributors
+
+Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+
+License
+
+A short snippet describing the license (MIT, Apache, etc.)
